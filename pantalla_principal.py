@@ -275,7 +275,7 @@ def ver_historial(usuario):
         print(colored("HISTORIAL (De más reciente a más antiguo): ", "green"))
         print(colored("-----------------------------------------", "green"))
 
-        lista_temp =  [int(num) for num in list(ast.literal_eval(usuario.historial))]
+        lista_temp =  [int(num) for num in list(ast.literal_eval(str(usuario.historial)))]
         lista_temp2 = []
         for num in lista_temp:
             for libro in Libro.libros:
