@@ -1,0 +1,50 @@
+Aprendiendo Python,Educacion,2021-05-01,Juan Pérez
+La historia de la humanidad,Historia,2019-03-15,Ana Gómez
+Tecnología del futuro,Tecnologia,2023-01-20,Luis Martínez
+Cocina fácil,Cocina,2020-07-30,María López
+Introducción a la programación,Educacion,2022-09-10,Carlos Ramírez
+El arte de la guerra,Historia,2018-11-25,Sun Tzu
+Sapiens: De animales a dioses,Historia,2015-05-14,Yuval Noah Harari
+Cien años de soledad,Literatura,1967-06-05,Gabriel García Márquez
+La magia del orden,Divulgacion,2011-10-14,Marie Kondo
+Cocina para principiantes,Cocina,2021-04-12,Laura Fernández
+Data Science desde cero,Educacion,2020-12-01,Joel Grus
+El alquimista,Literatura,1988-05-01,Paulo Coelho
+El cerebro y la inteligencia,Divulgacion,2016-03-22,Daniel Kahneman
+Historia de la filosofía,Humanidades,2012-09-15,Bertrand Russell
+Ciencias de la computación,Educacion,2019-08-19,Peter Norvig
+Historia del arte,Humanidades,2010-06-18,E.H. Gombrich
+Biografía de Steve Jobs,Divulgacion,2011-10-24,Walter Isaacson
+El gran Gatsby,Literatura,1925-04-10,F. Scott Fitzgerald
+Fundamentos de la matemática,Educacion,2018-02-05,John Horton Conway
+El origen de las especies,Divulgacion,1859-11-24,Charles Darwin
+La casa de los espíritus,Literatura,1982-10-08,Isabel Allende
+Cocina mediterránea,Cocina,2021-03-30,Andreas Viestad
+Física para todos,Educacion,2017-07-15,Alfonso García
+Historia de la música,Humanidades,2014-11-29,Philip F. Gura
+Innovación y emprendimiento,Tecnologia,2019-09-20,Peter F. Drucker
+Crónica de una muerte anunciada,Literatura,1981-06-01,Gabriel García Márquez
+Manual de supervivencia,Divulgacion,2020-05-18,Bear Grylls
+Cómo ganar amigos e influir sobre las personas,Divulgacion,1936-10-01,Dale Carnegie
+El futuro de la humanidad,Divulgacion,2018-03-15,Michio Kaku
+Matemáticas para programadores,Educacion,2021-08-10,Mark Ryan
+El cuento de la criada,Literatura,1985-04-17,Margaret Atwood
+Historia de la tecnología,Humanidades,2016-05-10,David Edgerton
+El poder del ahora,Divulgacion,1997-09-02,Eckhart Tolle
+La odisea,Literatura,0800-01-01,Homero
+Inteligencia emocional,Divulgacion,1995-10-01,Daniel Goleman
+Big Data,Tecnologia,2015-06-15,Viktor Mayer-Schönberger
+Historia del mundo,Historia,2019-02-20,J.M. Roberts
+Aprendiendo Java,Educacion,2020-11-05,Herbert Schildt
+Los pilares de la tierra,Literatura,1989-08-15,Ken Follett
+El arte de la felicidad,Divulgacion,1998-09-10,Dalai Lama
+Guía de supervivencia para padres,Divulgacion,2017-03-30,Alfonso Arús
+La vida secreta de la mente,Divulgacion,2014-05-01,José Ramón Alonso
+Cuentos de la selva,Literatura,1918-01-01,Horacio Quiroga
+Introducción a la psicología,Educacion,2016-04-12,James W. Kalat
+Cocina vegetariana,Cocina,2021-01-15,Ruth Reichl
+El hombre en busca de sentido,Divulgacion,1946-01-01,Viktor Frankl
+Biología celular,Educacion,2019-12-01,Thomas D. Pollard
+La sombra del viento,Literatura,2001-04-01,Carlos Ruiz Zafón
+Historia de los videojuegos,Humanidades,2018-09-30,Jonny Lee
+Redes sociales para Dummies,Tecnologia,2016-11-01,Ryan Deiss
